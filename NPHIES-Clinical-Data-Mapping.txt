@@ -1,0 +1,8 @@
+NPHIES-Clinical-Data-Mapping/
+│
+├── README.md                                # Main project documentation (Comprehensive overview)
+├── resources/                               # Directory containing FHIR resources
+│   └── condition-lumbar-disc-01.json        # JSON file for the clinical diagnosis
+│
+└── docs/                                    # Supporting documentation folder (Optional)
+    └── mapping-table.md                     # Detailed data mapping table
